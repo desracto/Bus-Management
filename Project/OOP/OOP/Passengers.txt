@@ -1,0 +1,41 @@
+# Comments Denoted by #
+
+AAA L
+AAA L
+AAA L
+AAA M
+AAA M
+AAA M
+AAA M
+AAA M
+
+BAB F
+BAB F
+BAB F
+BRA L
+
+CAC L
+CAC L
+CAC L
+CAC L
+CAC L
+CAC M
+CAC M
+CAC M
+CRB F
+CRA L
+
+DAD M
+DAD M
+DAD M
+DAD M
+DAD M
+DAD M
+
+EAE T
+EAE T
+EAE T
+EAE T
+ERB F
+
+F E
